@@ -148,7 +148,7 @@ a.active, a:hover{
     
 }
 .Clients{
-    padding: 80px;
+    padding: 100px;
 }
 .div10{
     width: 33%;
@@ -212,4 +212,10 @@ footer ul li{
     top: center;
     display: inline-block;
     float: right;
+}
+.img1{
+    border-radius: 10px;
+}
+.div8910{
+    padding: 3opx;
 }
