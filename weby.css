@@ -211,4 +211,5 @@ footer ol li{
 footer ul li{
     top: center;
     display: inline-block;
+    float: right;
 }
