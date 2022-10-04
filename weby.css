@@ -1,0 +1,214 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-size: 18px;
+}
+.header{
+    background-image: url("image-header.jpg");
+    height: 400px;
+    width: 100%;
+    overflow:hidden;
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.logo{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 10px;
+    line-height: 60px;
+}
+nav ul {
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display:inline-block;
+    line-height: 60px;
+    margin: 0 5px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav ul li a{
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+    border-radius: 18px;
+    padding: 7px 13px;
+}
+a.active, a:hover{
+    background:white;
+    color: black;
+    transition: .5s;
+}
+.header-class{
+    color: white;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.arrow{
+    top: 50%;
+    left: 50%;
+}
+.div{
+    width: 100%;
+    height: 400px;
+    margin: 0;
+}
+
+.div2{
+    color: black;
+    width: 50%;
+    height: 390px;
+    float: left;
+    margin-right: auto;
+    text-align: center;
+}
+.div3{
+    width: 50%;
+    float: left;
+    display: inline-block;
+    margin-left: auto;
+    height: 390px;
+}
+.div5{
+    color: black;
+    width: 50%;
+    height: 390px;
+    float: left;
+    display: inline-block;
+    margin-right: auto;
+    text-align: center;
+}
+.div4{
+    width: 50%;
+    float: left;
+    display: inline-block;
+    margin-left: auto;
+    height: 390px;
+    margin-top: 0;
+}
+
+
+
+.div6{
+    background-image: url("image-gallery-cone.jpg");
+    width: 50%;
+    float: left;
+    display: inline-block;
+    margin-left: auto;
+    height: 390px;
+    margin-top: 0;
+    text-align: center;
+    padding: 150px;
+    color: hsl(167, 40%, 24%);
+}
+.div7{
+    background-image: url("image-gallery-orange.jpg");
+    width: 50%;
+    float: right;
+    display: inline-block;
+    margin-right: auto;
+    height: 390px;
+    margin-top: 0;
+    text-align: center;
+    padding: 150px 200px;
+    color: hsl(198, 62%, 26%);
+}
+.div8{
+    width: 33%;
+    float: left;
+    display: inline-block;
+    margin-left: auto;
+    height: 390px;
+    margin-top: 0;
+    text-align: center;
+   
+}
+.div9{
+    width: 33%;
+    float: center;
+    display: inline-block;
+    margin-left: auto;
+    height: 390px;
+    margin-top: 0;
+    text-align: center;
+    
+}
+.Clients{
+    padding: 80px;
+}
+.div10{
+    width: 33%;
+    float: right;
+    display: inline-block;
+    margin-left: auto;
+    height: 390px;
+    margin-top: 0;
+    text-align: center;
+   
+}
+img{
+
+}
+
+.Clients{
+    text-align: center;
+}
+.diva{
+    float: left;
+    display: inline-block;
+    margin-left: auto;
+    margin-top: 0;
+}
+.divb{
+    float: left;
+    display: inline-block;
+    margin-left: auto;
+    margin-top: 0;
+}
+.divc{
+    float: left;
+    display: inline-block;
+    margin-left: auto;
+    margin-top: 0;
+}
+.divd{
+    float: right;
+    display: inline-block;
+    margin-left: auto;
+    margin-top: 0;
+}
+footer{
+    background: (hsl(168, 34%, 41%);
+    color:hsl(167, 40%, 24%);
+    width: 100%;
+    height: 210;
+    position: absolute;
+}
+footer ul li{
+    display: inline-block;
+}
+.sunnyfooter{
+    text-align: center;
+}
+footer ol li{
+    text-align: center;
+    display: inline-block;
+}
+footer ul li{
+    top: center;
+    display: inline-block;
+}
